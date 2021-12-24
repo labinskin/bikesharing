@@ -14,7 +14,7 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 
 ![](https://github.com/labinskin/bikesharing/blob/main/Resources/Check%20Times%20for%20Users.png)
 
-The highest number of trips, 146, 752, lasted only five minutes. This indicates that a majority of our users use the biks for quick trips around town.
+The highest number of trips, 146, 752, lasted only five minutes. This indicates that a majority of our users use the bikes for quick trips around town.
 
 ![](https://github.com/labinskin/bikesharing/blob/main/Resources/Checkout%20Times%20by%20Gender.png)
 
