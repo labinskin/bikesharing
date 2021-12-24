@@ -40,7 +40,6 @@ This first chart supports our previous findings that our most likely user is mal
 
 ![](https://github.com/labinskin/bikesharing/blob/main/Resources/Top%20Ending%20Locations.png)
 
-This first chart shows the beginning locations for the bikes. The second one shows the ending locations for the bikes.
-
+This first chart shows the beginning locations for the bikes. The second one shows the ending locations for the bikes. The majority of trips both started and ended in Manhattan, NY. This would correlate with our average trip data (highest being 5 minutes, but most trips being only a few minutes long). This would suggest that most bikers use these bikes for quick commutes.
 ## Summary
 
