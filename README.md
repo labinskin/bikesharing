@@ -34,7 +34,7 @@ Comparisons between male and female correlate with the previous charts for time 
 
 ![](https://github.com/labinskin/bikesharing/blob/main/Resources/Number%20of%20Females.png)
 
- This first chart supports our previous findings that our most likely user is male. Additionally, our heaviest subscribers are male; they also use our service every day of the week. Female users are moderate subscribers, with use on all of the days, except Sunday and Wednesday being lighter days.
+This first chart supports our previous findings that our most likely user is male. Additionally, our heaviest subscribers are male; they also use our service every day of the week. Female users are moderate subscribers, with use on all of the days, except Sunday and Wednesday being lighter days. In total, as the second chart shows, we have 1,530,272 male users in the month of August and 588,431 female users in August.
 
 ![](https://github.com/labinskin/bikesharing/blob/main/Resources/Top%20Starting%20Locations.png)
 
